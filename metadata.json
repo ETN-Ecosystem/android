@@ -1,0 +1,5 @@
+{
+  "name": "ETN FM Radio Player",
+  "description": "A sleek, mobile-first web application to stream ETN FM radio, view currently playing tracks, song history, and listener counts, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}

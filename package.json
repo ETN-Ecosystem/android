@@ -1,0 +1,19 @@
+{
+  "name": "etn-fm-radio-player",
+  "private": true,
+  "version": "0.0.1",
+  "description": "ETN FM Radio Player as a mobile app.",
+  "scripts": {
+    "build": "echo 'This command would build the web assets for production.'",
+    "android": "npx cap open android"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.1.1",
+    "@capacitor/cli": "^6.1.1",
+    "@capacitor/core": "^6.1.1"
+  }
+}
